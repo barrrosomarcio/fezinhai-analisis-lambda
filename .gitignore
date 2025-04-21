@@ -1,0 +1,33 @@
+# Ambiente virtual
+venv/
+env/
+.env
+
+# Arquivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
+
+# Arquivos de implantação
+function.zip
+deployment/
+
+# Logs
+*.log
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db 
